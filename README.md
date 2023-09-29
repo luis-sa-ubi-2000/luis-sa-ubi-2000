@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there, welcome to my repository of projects done until now! 👋
+
+#### I took the Specialist Technician course in Information Systems Technologies and Programming at ATEC in 2019. I interned and worked at Indra as a Programming Technician from September 2019 to February 2020. I completed a Bachelor's degree in Computer Engineering at the University of Beira Interior and collaborated in the junior company STAR JE as a Web Developer.
+
+***Links*** 🔗:
+- LinkedIn: [Luís Sá](https://www.linkedin.com/in/luís-afonso-sá/)
+
+***Mail*** 📫:
+- If you are interested, mail to me: [luisafonsocarapetasa@gmail.com](mailto:luisafonsocarapetasa@gmail.com).
+---
+### Thank you for visiting my repository!
 
 <!--
 **luis-sa-ubi-2000/luis-sa-ubi-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
