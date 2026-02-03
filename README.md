@@ -1,6 +1,8 @@
 ## Hi there, welcome to my repository of projects done until now! 👋
 
-#### I took the Specialist Technician course in Information Systems Technologies and Programming at ATEC in 2019. I interned and worked at Indra as a Programming Technician from September 2019 to February 2020. I completed a Bachelor's degree in Computer Engineering at the University of Beira Interior and collaborated in the junior company STAR JE as a Web Developer.
+#### I describe myself as an professional passionate about information technology, with experience in web development, programming, and technical support. I completed the Specialist Technician course in Information Systems Technologies and Programming at ATEC in 2019. I interned at Indra as a Programming Technician and contributed as a Web Developer at STAR JE while completing my Bachelor's degree in Computer Engineering at the University of Beira Interior.
+
+Collaborated as an IT Support Technician for the European Elections and currently, I am a Superior IT Technician at STCP. I am always looking for new challenges to apply and expand my knowledge, believing that the technology sector is crucial for transforming businesses and improving lives.
 
 ***Links*** 🔗:
 - LinkedIn: [Luís Sá](https://www.linkedin.com/in/luís-afonso-sá/)
